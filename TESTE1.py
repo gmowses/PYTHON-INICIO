@@ -1,0 +1,5 @@
+print('=========TESTE=========')
+can = input('Qual seu cantor preferido ?')
+can2 = input('Qual a musica dele que você mais gosta de escutar ?')
+can3 = input('Qual estado você mora ?')
+print('Então você mora em',can3, 'gosta de ouvir',can2, 'do',can, '. correto ?') 
